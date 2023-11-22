@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+li {
+  display: inline;
+  font-size: 20px;
+  border:solid;
+  padding:5px;
+  border-radius:15px;
+  border-color: #134611;
+  background-color:#9ABD97;
+  color:black;
+}
+
+.navBar1{
+        border-color:black;
+      padding:6px;
+        background-color: #8CAE68;
+         justify-content:space-between;
+         display:flex;
+         border-radius: 5px;
+          }
+
+
+body{background-color:#4F772D;}
+
+h1{border:solid;
+  border-color: #31572C;
+  background-color: #a1bd61;
+display: flex;
+  justify-content: center;
+  border-radius:10px;
+  font-size: 40px;
+  color:#132A13;}
