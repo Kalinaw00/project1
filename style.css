@@ -34,3 +34,28 @@ display: flex;
   border-radius:10px;
   font-size: 40px;
   color:#132A13;}
+
+
+
+img{width:300px;}
+
+
+
+
+
+
+
+div.scroll-container {
+  background-color:#a1bd61;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  border:solid;
+  border-radius:25px;
+  border-color:#244020;
+  border-width:7px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
